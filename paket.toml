@@ -1,6 +1,6 @@
 [package]
 name = "fzf.fish"
-version = "v10.4"
+version = "10.4"
 authors = ["Justin Su <injustsu@gmail.com>", "Patrick Fong <patrickf3139@gmail.com>"]
 license = "MIT"
 description = "Fzf plugin for Fish"
