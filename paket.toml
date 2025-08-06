@@ -1,0 +1,14 @@
+[package]
+name = "fzf.fish"
+version = "v10.4"
+authors = ["Justin Su <injustsu@gmail.com>", "Patrick Fong <patrickf3139@gmail.com>"]
+license = "MIT"
+description = "Fzf plugin for Fish"
+repository = "https://github.com/0x4c756e61/fzf.fish-paket"
+keywords = [
+    "fzf",
+    "fish-shell",
+    "fish-packages",
+    "keybindings",
+    "fuzzy-search"
+]
