@@ -192,7 +192,7 @@ set fzf_diff_highlighter diff-so-fancy
 set fzf_history_time_format %d-%m-%y
 ```
 
-Do not to include the vertical box-drawing character `│` (not to be confused with the pipe character `|`) as it is relied on to delineate the date time from the command.
+Do not include the vertical box-drawing character `│` (not to be confused with the pipe character `|`) as it is relied on to delineate the date time from the command.
 
 ## Further reading
 
